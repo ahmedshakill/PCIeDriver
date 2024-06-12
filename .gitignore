@@ -1,0 +1,12 @@
+modules.order       
+.Module.symvers.cmd  
+.mymodule.*
+.modules.*   
+mymodule.mod      
+mymodule.mod.o       
+.mymodule.o.cmd
+Module.symvers      
+mymodule.ko 
+mymodule.o         
+mymodule.mod.c    
+.mymodule.mod.o.cmd
